@@ -25,7 +25,6 @@ Study-Hours-vs-Exam-Score-Analysis/
 | Pandas       | Data manipulation    |  
 | NumPy        | Numerical operations |  
 | Matplotlib   | Visualization        |  
-| Seaborn      | Advanced plotting    |  
 | Scikit-learn | Machine learning     |  
 
 ## 🚀 Installation & Setup
